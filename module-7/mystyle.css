@@ -1,0 +1,23 @@
+/*
+ * Johnathan Smith
+ * Module 7 Programming Assignment
+ * External CSS style sheet for JavaFX circles.
+ */
+
+/* Class for white fill and black stroke color */
+.plaincircle {
+    -fx-fill: white;
+    -fx-stroke: black;
+}
+
+/* ID for red color */
+#redcircle {
+    -fx-fill: red;
+    -fx-stroke: red;
+}
+
+/* ID for green color */
+#greencircle {
+    -fx-fill: green;
+    -fx-stroke: green;
+}
